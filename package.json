@@ -1,0 +1,39 @@
+{
+  "name": "merchandiser-next15",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "i18next": "^24.2.1",
+    "i18next-http-backend": "^3.0.1",
+    "jwt-decode": "^4.0.0",
+    "merchandiser-next15": "file:",
+    "next": "15.1.4",
+    "next-i18next": "^15.4.1",
+    "primeflex": "^3.3.1",
+    "primeicons": "^7.0.0",
+    "primereact": "^10.9.1",
+    "quill": "^2.0.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.54.2",
+    "react-i18next": "^14.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.4",
+    "sass": "^1.68.0",
+    "typescript": "^5.7.3"
+  }
+}

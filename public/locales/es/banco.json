@@ -1,0 +1,44 @@
+
+{
+    "entidad": "Banco ",
+    
+  "rotulo":{
+    "buscar":"Buscar Banco",
+    "agregar":"Nuevo Banco",
+    "editar":"Editar",
+    "confirmacion":"Esta seguro?",
+    "eliminar":"Eliminar Banco",    
+    "actualizar":"Actualizar Banco",    
+    "imprimir":"Imprimir"   
+  },
+  "mensaje":{
+    "cabecero":"Banco",
+    "severidad":"info",
+    "agregar":"Agregado correctamente",
+    "confirmacion":"Esta seguro?",
+    "eliminar":"Eliminado correctamente",
+    "actualizar":"Actualizado correctamente"    
+  },
+  "error":{
+    "cabecero":"Banco",
+    "severidad":"error",
+    "agregar":"Error en Agregar",
+    "eliminar":"Error en Eliminar",
+    "seleccionar":"Error en Seleccionar",
+    "buscar":"Error en Buscar",
+    "actualizar":"Error en Actualizar"    
+  },
+"label":{
+        "idBanco":"IdBanco",
+        "nombre":"Nombre"},
+
+"required":{
+        "idBanco":"IdBanco es requerido",
+        "nombre":"Nombre es requerido"},
+
+"placeholder":{
+        "idBanco":"Escribe  IdBanco",
+        "nombre":"Escribe  Nombre"}
+    
+ }   
+

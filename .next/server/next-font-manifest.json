@@ -1,0 +1,9 @@
+{
+  "app": {
+    "[project]/src/app/(main)/page": [],
+    "[project]/src/app/(main)/banco/page": []
+  },
+  "appUsingSizeAdjust": false,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

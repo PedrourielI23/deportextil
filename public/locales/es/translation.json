@@ -1,0 +1,60 @@
+{
+  "rotulo": {
+    "buscar": "Buscar",
+    "agregar": "Agregar",
+    "editar": "Editar",
+    "confirmacion": "Esta seguro?",
+    "eliminar": "Eliminar",
+    "actualizar": "Actualizar",
+    "imprimir": "Imprimir",
+    "datos": "Agregar",
+    "vacio": "Sin Registros"
+  },
+  "boton": {
+    "buscar": "Buscar",
+    "cancelar": "Cancelar",
+    "agregar": "Agregar",
+    "editar": "Editar",
+    "confirmacion": "Esta seguro?",
+    "eliminar": "Eliminar",
+    "actualizar": "Actualizar",
+    "imprimir": "Imprimir",
+    "datos": "Agregar",
+    "siguiente": "Siguiente",
+    "vacio": "Sin Registros",
+    "terminar": "Terminar"
+  },
+  "mensaje": {
+    "severidad": "info",
+    "agregar": "Agregado correctamente",
+    "confirmacion": "Esta seguro?",
+    "eliminar": "Eliminado correctamente",
+    "actualizar": "Actualizado correctamente"
+  },
+  "error": {
+    "severidad": "error",
+    "agregar": "Error en Agregar",
+    "eliminar": "Error en Eliminar",
+    "seleccionar": "Error en Seleccionar",
+    "buscar": "Error en Buscar",
+    "actualizar": "Error en Actualizar"
+  },
+  "label": {
+    "id": "ID",
+    "estatus": "Estatus",
+    "dias": "Dias Credito",
+    "regimenFiscal": "Regimen",
+    "claveSat": "Clave SAT",
+    "seleccionar": "Seleccionar"
+  },
+  "required": {},
+  "placeholder": {
+    "criterio": "Buscar"
+  },
+  "formato": {
+    "sinfecha": "Sin Fecha",
+    "fechaHora": "DD/MM/YYYY HH:mm:ss",
+    "fecha": "DD/MM/YYYY",
+    "hora": "HH:mm:ss"
+  }
+}

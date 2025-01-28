@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/OITIC/GITHUB/Merchandising-front/merchandising-nts15/src/app/not-found.tsx"],"sourcesContent":["import type { Page } from \"@/types\";\nimport NotFound from \"./(full-page)/pages/notfound/page\";\n\nconst Custom404: Page = () => {\n    return <NotFound />;\n};\n\nexport default Custom404;\n"],"names":[],"mappings":";;;;;;;;;;;AAGA,MAAM,YAAkB;IACpB,qBAAO,8OAAC;;;;;AACZ;uCAEe"}},
+    {"offset": {"line": 26, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":["file://C%3A/OITIC/GITHUB/Merchandising-front/merchandising-nts15/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-rsc'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,0HAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0]}},
+    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

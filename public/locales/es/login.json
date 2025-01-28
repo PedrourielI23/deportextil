@@ -1,0 +1,35 @@
+{
+  "entidad": "Login ",
+  "rotulo": {
+    "login": "Iniciar Sesión",
+    "contra": "Contraseña",
+    "actualizaContra": "Actualizar Contraseña",
+    "recuperaContra": "Recuperar contraseña"
+  },
+  "Button": {
+    "Iniciar": "Entrar",
+    "siguiente": "Siguiente"
+  },
+  "mensaje": {
+    "cabecero": "Login"
+  },
+  "label": {
+    "usuario": "Usuario",
+    "password": "Contraseña",
+    "nuevaPassword": "Nueva Contraseña",
+    "crear": "Registrese",
+    "cuenta": "¿No tiene una cuenta?",
+    "login": "Entrar",
+    "confirmarPassword": "Confirma contraseña",
+    "recuperaContra": "Restablecer contraseña",
+    "email": "Email"
+  },
+  "required": {
+    "usuario": "El usuario es requerido",
+    "password": "La contraseña es requerida",
+    "nuevaPassword": "Nueva Contraseña es requerida",
+    "confirmarPassword": "Confirmar la contraseña es requerido",
+    "coincidePassword": "Las contraseñas deben coincidir",
+    "email": "El email es requerido"
+  }
+}
