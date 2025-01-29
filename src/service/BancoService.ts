@@ -1,9 +1,11 @@
 import axios, { AxiosResponse } from 'axios';
 
+//prueba
 interface Banco {
     idBanco: number;
     nombreBanco: string;
-    [key: string]: string | number;
+    [key: string]: string | 
+    number;
 }
 
 export default class BancoService {
